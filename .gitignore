@@ -1,0 +1,7 @@
+*/node_modules/
+
+# docker files
+docker-compose.yml
+
+# other generated files
+.DS_Store
